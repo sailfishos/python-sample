@@ -17,7 +17,7 @@ Version:    1.0
 Release:    1
 Group:      Qt/Qt
 License:    LICENSE
-URL:        https://github.com/sailfish-sdk
+URL:        https://github.com/sailfishos
 Source0:    %{name}-%{version}.tar.bz2
 Source100:  pythonsample.yaml
 Requires:   sailfishsilica-qt5 >= 0.10.9
