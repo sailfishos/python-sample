@@ -34,6 +34,7 @@ PkgConfigBR:
 Requires:
   - sailfishsilica-qt5 >= 0.10.9 
   - pyotherside-qml-plugin-python3-qt5
+  - libsailfishapp-launcher
 
 # All installed files
 Files:
